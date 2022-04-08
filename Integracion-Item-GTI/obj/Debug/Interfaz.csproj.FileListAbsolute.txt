@@ -1,0 +1,17 @@
+C:\Users\I&S\source\repos\GTI\Integracion-Item-GTI\Integracion-Item-GTI\bin\Debug\Integracion-Item-GTI.exe.config
+C:\Users\I&S\source\repos\GTI\Integracion-Item-GTI\Integracion-Item-GTI\bin\Debug\Integracion-Item-GTI.exe
+C:\Users\I&S\source\repos\GTI\Integracion-Item-GTI\Integracion-Item-GTI\bin\Debug\Integracion-Item-GTI.pdb
+C:\Users\I&S\source\repos\GTI\Integracion-Item-GTI\Integracion-Item-GTI\obj\Debug\Interfaz.csproj.AssemblyReference.cache
+C:\Users\I&S\source\repos\GTI\Integracion-Item-GTI\Integracion-Item-GTI\obj\Debug\Interfaz.csproj.SuggestedBindingRedirects.cache
+C:\Users\I&S\source\repos\GTI\Integracion-Item-GTI\Integracion-Item-GTI\obj\Debug\Integracion_Item_GTI.Properties.Resources.resources
+C:\Users\I&S\source\repos\GTI\Integracion-Item-GTI\Integracion-Item-GTI\obj\Debug\Interfaz.csproj.GenerateResource.cache
+C:\Users\I&S\source\repos\GTI\Integracion-Item-GTI\Integracion-Item-GTI\obj\Debug\Interfaz.csproj.CoreCompileInputs.cache
+C:\Users\I&S\source\repos\GTI\Integracion-Item-GTI\Integracion-Item-GTI\obj\Debug\Integracion-Item-GTI.exe
+C:\Users\I&S\source\repos\GTI\Integracion-Item-GTI\Integracion-Item-GTI\obj\Debug\Integracion-Item-GTI.pdb
+C:\Users\I&S\source\repos\GTI\Integracion-Item-GTI\Integracion-Item-GTI\bin\Debug\Dominio.dll
+C:\Users\I&S\source\repos\GTI\Integracion-Item-GTI\Integracion-Item-GTI\bin\Debug\Infraestructura.dll
+C:\Users\I&S\source\repos\GTI\Integracion-Item-GTI\Integracion-Item-GTI\bin\Debug\Dominio.pdb
+C:\Users\I&S\source\repos\GTI\Integracion-Item-GTI\Integracion-Item-GTI\bin\Debug\Infraestructura.pdb
+C:\Users\I&S\source\repos\GTI\Integracion-Item-GTI\Integracion-Item-GTI\bin\Debug\Infraestructura.dll.config
+C:\Users\I&S\source\repos\GTI\Integracion-Item-GTI\Integracion-Item-GTI\obj\Debug\Integracion_Item_GTI.Form1.resources
+C:\Users\I&S\source\repos\GTI\Integracion-Item-GTI\Integracion-Item-GTI\obj\Debug\Interfaz.csproj.CopyComplete

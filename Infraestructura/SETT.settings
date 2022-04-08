@@ -1,0 +1,15 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="Infraestructura" GeneratedClassName="SETT">
+  <Profiles />
+  <Settings>
+    <Setting Name="Conexion" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Data Source=192.168.0.200,1434;initial catalog=GTIntegration_Sebas;user id=gt;password=gt</Value>
+    </Setting>
+    <Setting Name="InfraWSIESA" Type="(Web Service URL)" Scope="User">
+      <Value Profile="(Default)">http://192.168.0.200/WSUNOEE/WSUNOEE.Asmx?WSDL</Value>
+    </Setting>
+    <Setting Name="InfraGTI" Type="(Web Service URL)" Scope="User">
+      <Value Profile="(Default)">http://192.168.0.200/GTIntegration_Sebas/ServiciosWeb/wsGenerarPlano.asmx?WSDL</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>

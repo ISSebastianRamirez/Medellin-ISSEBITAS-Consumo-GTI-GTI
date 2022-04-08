@@ -1,0 +1,10 @@
+C:\Users\I&S\source\repos\GTI\Integracion-Item-GTI\Infraestructura\bin\Debug\Infraestructura.dll.config
+C:\Users\I&S\source\repos\GTI\Integracion-Item-GTI\Infraestructura\bin\Debug\Infraestructura.dll
+C:\Users\I&S\source\repos\GTI\Integracion-Item-GTI\Infraestructura\bin\Debug\Infraestructura.pdb
+C:\Users\I&S\source\repos\GTI\Integracion-Item-GTI\Infraestructura\obj\Debug\Infraestructura.csproj.AssemblyReference.cache
+C:\Users\I&S\source\repos\GTI\Integracion-Item-GTI\Infraestructura\obj\Debug\Infraestructura.csproj.CoreCompileInputs.cache
+C:\Users\I&S\source\repos\GTI\Integracion-Item-GTI\Infraestructura\obj\Debug\Infraestructura.dll
+C:\Users\I&S\source\repos\GTI\Integracion-Item-GTI\Infraestructura\obj\Debug\Infraestructura.pdb
+C:\Users\I&S\source\repos\GTI\Integracion-Item-GTI\Infraestructura\bin\Debug\Newtonsoft.Json.dll
+C:\Users\I&S\source\repos\GTI\Integracion-Item-GTI\Infraestructura\bin\Debug\Newtonsoft.Json.xml
+C:\Users\I&S\source\repos\GTI\Integracion-Item-GTI\Infraestructura\obj\Debug\Infraestructura.csproj.CopyComplete

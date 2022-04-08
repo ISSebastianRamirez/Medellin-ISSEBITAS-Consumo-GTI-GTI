@@ -1,0 +1,10 @@
+C:\Users\I&S\source\repos\GTI\Integracion-Item-GTI\Dominio\bin\Debug\Dominio.dll
+C:\Users\I&S\source\repos\GTI\Integracion-Item-GTI\Dominio\bin\Debug\Dominio.pdb
+C:\Users\I&S\source\repos\GTI\Integracion-Item-GTI\Dominio\obj\Debug\Dominio.csproj.AssemblyReference.cache
+C:\Users\I&S\source\repos\GTI\Integracion-Item-GTI\Dominio\obj\Debug\Dominio.csproj.CoreCompileInputs.cache
+C:\Users\I&S\source\repos\GTI\Integracion-Item-GTI\Dominio\obj\Debug\Dominio.dll
+C:\Users\I&S\source\repos\GTI\Integracion-Item-GTI\Dominio\obj\Debug\Dominio.pdb
+C:\Users\I&S\source\repos\GTI\Integracion-Item-GTI\Dominio\bin\Debug\Infraestructura.dll
+C:\Users\I&S\source\repos\GTI\Integracion-Item-GTI\Dominio\bin\Debug\Infraestructura.pdb
+C:\Users\I&S\source\repos\GTI\Integracion-Item-GTI\Dominio\bin\Debug\Infraestructura.dll.config
+C:\Users\I&S\source\repos\GTI\Integracion-Item-GTI\Dominio\obj\Debug\Dominio.csproj.CopyComplete
